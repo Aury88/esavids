@@ -1,0 +1,26 @@
+{
+    "maxResults": "20",
+    
+    "playlists": [
+        {
+            "id": "PL221A6233C4B4DD9E",
+            "reminder": "Earth from Space "
+        },
+        {
+            "id": "PLbyvawxScNbtAhH8vHAYl-pyEirPi-4Ad",
+            "reminder": "Rosetta"
+        },
+        {
+            "id": "PLbyvawxScNbtfaJAmFlrnzdE0d32GNidK",
+            "reminder": "Gaia"
+        }
+	{
+            "id": "PLbyvawxScNbu6OVBM1dEZgbNk8njQDnHd",
+            "reminder": "Blue Dot Mission"
+        }
+	{
+	    "id": "PLbyvawxScNbv0iTQGOGzfElvZkVuq_ZQB"
+	    "reminder": "IXV"
+	}
+    ]
+}

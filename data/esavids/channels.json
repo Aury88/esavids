@@ -1,0 +1,102 @@
+{
+    "maxResults": "20",
+    "playlists": [
+        {
+            "id": "PLbyvawxScNbv0iTQGOGzfElvZkVuq_ZQB",
+            "reminder": "IXV"
+        },
+        {
+            "id": "PLbyvawxScNbvIeTkEyBVhwZ9_Jq80ZUSr",
+            "reminder": "Oasiss Mission"
+        },
+        {
+            "id": "PLbyvawxScNbtiUw3X0Qji8gGzAf1FZYvh",
+            "reminder": "Futura Mission"
+        }
+	{
+            "id": "PLbyvawxScNbsb8cUj1MTogcM22KHqCpc0",
+            "reminder": "ATV"
+        }
+        {
+            "id": "PLbyvawxScNbsvzQd7kvqP58DwbymMn_XF",
+            "reminder": "Esa Hangout"
+        }
+	{
+            "id": "PLbyvawxScNbshQN7ZDLEaAW3WO-2sLzb_",
+            "reminder": "Avamposto42"
+        }
+        {
+            "id": "PLbyvawxScNbs9ET50PFwZTworudkNsnH_",
+            "reminder": "Sentinel-1"
+        }
+	{
+            "id": "PLbyvawxScNbu6OVBM1dEZgbNk8njQDnHd",
+            "reminder": "Blue Dot Mission"
+        }
+        {
+            "id": "PLbyvawxScNbtfaJAmFlrnzdE0d32GNidK",
+            "reminder": "Gaia"
+        }
+        {
+            "id": "PLbyvawxScNbtAhH8vHAYl-pyEirPi-4Ad",
+            "reminder": "Rosetta"
+        }
+	{
+            "id": "PLbyvawxScNbvuuGfyQq5Hyb8p07Jlzz6q",
+            "reminder": "Swarm"
+        }
+        {
+            "id": "PLbyvawxScNbse2Y0h9xu6QQQI4uYMXvAx",
+            "reminder": "Iss in 15y"
+        }
+        {
+            "id": "PLbyvawxScNbsm55jUs-r5JdC1vYI9qD8A",
+            "reminder": "Volare Mission"
+        }
+        {
+            "id": "PLbyvawxScNbtOhSyWgmQcDJpbjOsShog7",
+            "reminder": "Most viewed"
+        }
+        {
+            "id": "PLbyvawxScNbszusXKD6PkV3os4Fkme_1P",
+            "reminder": "Relax"
+        }
+        {
+            "id": "PL6B0AB88FA7B63660",
+            "reminder": "Working in Space"
+        }
+        {
+            "id": "PL221A6233C4B4DD9E",
+            "reminder": "Earth from Space"
+        }
+        {
+            "id": "PL41C087F0054D0454",
+            "reminder": "Space in 3D"
+        }
+        {
+            "id": "PL2AD2E190542736BD",
+            "reminder": "Space Science"
+        }
+        {
+            "id": "PL42ADFC3F75420180",
+            "reminder": "Navigation"
+        }
+        {
+            "id": "PL3409DC40E1639D1C",
+            "reminder": "Launchers & Liftoff"
+        }
+        {
+            "id": "PL878933F37684D570",
+            "reminder": "Human Spaceflight"
+        }
+        {
+            "id": "PLAB89FDE74DAFF873",
+            "reminder": "Earth Observation"
+        }
+        {
+            "id": "PL81849B62D4614739",
+            "reminder": "Expert Interviews"
+        }
+    ]
+}
+
