@@ -1,3 +1,3 @@
 # esavids
 EsaVids Scope for Ubuntu Touch
-This Scope aggregate the Esa's playlist on youtube 
+This Scope aggregate the Esa's playlists on youtube 
